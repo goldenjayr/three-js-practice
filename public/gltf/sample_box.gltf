@@ -1,0 +1,151 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ],
+      "name": "AuxScene"
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "matrix": [
+        1034.599365234375,
+        0,
+        0,
+        0,
+        0,
+        -0.000045223776412790014,
+        -1034.5993652343739,
+        0,
+        0,
+        1034.5993652343739,
+        -0.000045223776412790014,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "_base",
+      "mesh": 0
+    },
+    {
+      "children": [
+        0
+      ]
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 432,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 864,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1152,
+      "uri": "data:application/octet-stream;base64,AACAP///fz8AAIC/AACAPwAAgL8AAIC/AQCAv/3/f78AAIC/AACAP///fz8AAIC/AQCAv/3/f78AAIC/+v9/vwMAgD8AAIC/BACAP/f/fz8AAIA///9/vwAAgD8AAIA/AwCAv/r/f78AAIA/BACAP/f/fz8AAIA/AwCAv/r/f78AAIA/9f9/PwUAgL8AAIA/AACAP///fz8AAIC/BACAP/f/fz8AAIA/9f9/PwUAgL8AAIA/AACAP///fz8AAIC/9f9/PwUAgL8AAIA/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/9f9/PwUAgL8AAIA/AwCAv/r/f78AAIA/AACAPwAAgL8AAIC/AwCAv/r/f78AAIA/AQCAv/3/f78AAIC/AQCAv/3/f78AAIC/AwCAv/r/f78AAIA///9/vwAAgD8AAIA/AQCAv/3/f78AAIC///9/vwAAgD8AAIA/+v9/vwMAgD8AAIC/BACAP/f/fz8AAIA/AACAP///fz8AAIC/+v9/vwMAgD8AAIC/BACAP/f/fz8AAIA/+v9/vwMAgD8AAIC///9/vwAAgD8AAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0qqqqMqyqKj+pqqo+rKoqP6qqqj4AAIA/qqqqMqyqKj+qqqo+AACAPwAAAAAAAIA/qqoqP62qqj6pqio/rKoqP6uqqj6rqio/qqoqP62qqj6rqqo+q6oqP6qqqj6wqqo+q6oqP6mqqj6tqqo+qqqqPqqqqj4AAAAAq6oqP6mqqj6qqqo+AAAAAKqqKj+pqqoy////Mq2qqj4AAAAAqaoKNKeqqj4AAAAA////Mq2qqj6nqqo+AAAAAKqqqj6oqqo+AACAP6qqqj6sqio/qqqqPquqKj/+/78zAACAP6qqqj6rqio//v+/MwAAgD8AAAAAAAAAAK2qqj6pqqo+rqqqPqqqqj6qqio/AAAAAK2qqj6qqqo+qqoqP////zKsqio/"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1.0000004768371582,
+        1.0000003576278687,
+        1
+      ],
+      "min": [
+        -1.0000003576278687,
+        -1.0000005960464478,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      },
+      "name": "Material"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "material": 0
+        }
+      ]
+    }
+  ]
+}
